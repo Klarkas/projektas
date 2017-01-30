@@ -1,0 +1,21 @@
+.spalva{
+
+}
+#raudonas{
+ color: red;
+}
+#melynas{
+   color: blue;
+    background-color:brown ;
+}
+#zalias{
+    color: green;
+
+}
+body{
+    font-size: 14px;
+
+}
+p{
+    font-family: Arial;
+}
